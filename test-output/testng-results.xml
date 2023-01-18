@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3199" started-at="2023-01-18T17:44:59 CST" finished-at="2023-01-18T17:45:03 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3199" started-at="2023-01-18T17:44:59 CST" finished-at="2023-01-18T17:45:03 CST">
+      <class name="deleteMethod.CheckDeleteMethod">
+        <test-method status="PASS" signature="test1()[pri:0, instance:deleteMethod.CheckDeleteMethod@646d64ab]" name="test1" duration-ms="3161" started-at="2023-01-18T17:44:59 CST" finished-at="2023-01-18T17:45:03 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- deleteMethod.CheckDeleteMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
